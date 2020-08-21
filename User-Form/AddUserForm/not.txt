@@ -1,0 +1,1 @@
+C:\Users\Kürşad\Desktop\JavaScriptveReactÇalışma\ReactWorks2\proje2>json-server --watch api/db.json --port 3003

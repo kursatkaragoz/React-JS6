@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Kürşad Karagöz",
+      "salary": "5000",
+      "department": "Development",
+      "id": "unique - 1"
+    },
+    {
+      "id": "unique - 2",
+      "name": "Sercan Çelik",
+      "salary": "4000",
+      "department": "Pazarlama"
+    },
+    {
+      "name": "Hasan Kağıt",
+      "salary": "6500",
+      "department": "Pazarlama",
+      "id": "En3-exk"
+    },
+    {
+      "name": "Zeynep Zuhal",
+      "department": "İnsan Kaynakları",
+      "salary": "4950",
+      "id": "mfpzWqq"
+    },
+    {
+      "name": "Ziya Atmaca",
+      "salary": "5000",
+      "department": "denmee depart",
+      "id": "L2miBp1"
+    },
+    {
+      "name": "Kazım Karabekir",
+      "salary": "6900",
+      "department": "Pazarlama",
+      "id": "nU82xoY"
+    },
+    {
+      "name": "Sıtkı Eren",
+      "department": "CEO",
+      "salary": "9700",
+      "id": "FWh90bh"
+    }
+  ]
+}
